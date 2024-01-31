@@ -16,10 +16,10 @@
 
 
 //2703. Return Length of Arguments Passed
-// function argumentsLength(args){
-//     return args.length;
-// }
-// console.log(argumentsLength([5,2,3,4])); //очікую в консоль 4
+function argumentsLength(args){
+    return args.length;
+}
+console.log(argumentsLength([5,2,3,4])); //очікую в консоль 4
 
 
 //Examle of array1
